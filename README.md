@@ -2,9 +2,14 @@
 This is a simple python script which makes request to Google Maps API, pulls data from it and displays them.
 
 User has to provide origins and destinations in a comma separated format.   
-Please Note: All the origins and destinations should belong to the same country.
+Please Note: All the origins and destinations should belong to the same country.    
+    
+Example:      
+                      
+    Enter origins: bangalore, chennai      
+    Enter destinations: delhi, kolkata, mumbai
 
-Have a look at the sample screenshots of input and output.
+Have a look at the sample screenshot.
 
 To make a request you need to have an API Key which you can get from https://developers.google.com/maps/documentation/distance-matrix/
 
