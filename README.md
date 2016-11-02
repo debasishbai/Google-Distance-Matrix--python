@@ -9,6 +9,7 @@ Example:
     Enter origins: bangalore, chennai      
     Enter destinations: delhi, kolkata, mumbai
 
+The output displays the total distance (in km), average duration, live traffic (real time).     
 Have a look at the sample screenshot.
 
 To make a request you need to have an API Key which you can get from https://developers.google.com/maps/documentation/distance-matrix/
