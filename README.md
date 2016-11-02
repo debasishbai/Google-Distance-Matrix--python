@@ -6,8 +6,8 @@ Please Note: All the origins and destinations should belong to the same country.
     
 Example:      
                       
-    Enter origins: bangalore, chennai      
-    Enter destinations: delhi, kolkata, mumbai
+    Enter origins: mumbai,delhi
+    Enter destinations: bangalore, kolkata
 
 The output displays the total distance (in km), average duration, live traffic (real time).     
 Have a look at the sample screenshot.
