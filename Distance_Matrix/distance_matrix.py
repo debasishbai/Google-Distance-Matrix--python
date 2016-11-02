@@ -8,7 +8,7 @@ serviceurl = "https://maps.googleapis.com/maps/api/distancematrix/json?"
 while True:
 	start = ("|".join(input("Enter origins: ").split(",")))
 	end  = ("|".join(input("Enter destinations: ").split(",")))
-	key = " " # Your API Key Here
+	key = " " # Your API Key
 	
 	extend = {'units':'metric','origins':start,'destinations':end, 'key':key, 'departure_time':'now', 'mode':'driving', 'traffic_model':'best_guess'}
 	
